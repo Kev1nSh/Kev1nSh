@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my portfolio](cooming.soon)
 
-- 🌱 I’m currently learning **Big Data at STI**
+- 🌱 I’m currently learning **Data and IT security at STI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kev1nSh?tab=repositories](https://github.com/Kev1nSh?tab=repositories)
 
