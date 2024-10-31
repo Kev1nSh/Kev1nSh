@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Data and IT security at STI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kev1nSh?tab=repositories](https://github.com/Kev1nSh?tab=repositories)
-
 - 📫 How to reach me **kevinshocosh@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
