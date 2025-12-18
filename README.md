@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my portfolio](cooming.soon)
 
-- 🌱 I’m currently learning **Data and IT security at STI**
+- 🌱 I’m currently studying to **IT - Security Specialist at TUC Yrkeshögskola**
 
 - 📫 How to reach me **kevinshocosh@hotmail.com**
 
